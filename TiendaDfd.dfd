@@ -1,0 +1,103 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+13
+'TienditaDFD'
+4
+1
+17
+'Chicles 2 pesos'
+4
+1
+15
+'Jabón 4 pesos'
+4
+1
+14
+'agua 6 pesos'
+4
+1
+18
+'Galletas 8 pesos'
+4
+1
+19
+'Refresco 10 pesos'
+4
+1
+88
+'¿Quieres llevar chicles? introduce la cantidad de chicles, si no quieres chicles pon 0'
+5
+1
+1
+A
+4
+1
+82
+'¿Quieres llevar jabon? introduce la cantidad de jabon, si no quieres jabon pon 0'
+5
+1
+1
+B
+4
+1
+79
+'¿Quieres llevar agua? introduce la cantidad de agua, si no quieres agua pon 0'
+5
+1
+1
+C
+4
+1
+91
+'¿Quieres llevar galletas? introduce la cantidad de galletas, si no quieres galletas pon 0'
+5
+1
+1
+D
+4
+1
+92
+'¿Quieres llevar refresco? introduce la cantidad de refrescos, si no quieres refresco pon 0'
+5
+1
+1
+E
+6
+3
+1
+F
+3
+A*2
+1
+G
+3
+B*4
+1
+H
+3
+C*6
+6
+3
+1
+I
+3
+D*8
+1
+J
+4
+E*10
+1
+K
+9
+F+G+H+I+J
+4
+1
+31
+'El total de su compra es:' , K
+1

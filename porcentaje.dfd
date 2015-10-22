@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+13
+'Restaurante'
+4
+1
+31
+'Dame la cantidad que pagaste:'
+5
+1
+2
+N1
+7
+0
+1
+9
+N1>= 1000
+6
+2
+7
+propina
+7
+N1*0.16
+5
+total
+10
+N1-propina
+4
+1
+31
+'La cantidad de la propina es:'
+4
+1
+28
+'El total de su compra es:' 
+13
+6
+2
+8
+propina1
+7
+N1*0.10
+6
+total1
+11
+N1-propina1
+4
+1
+31
+'La cantidad de la propina es:'
+4
+1
+28
+'El total de su compra es:' 
+13
+1

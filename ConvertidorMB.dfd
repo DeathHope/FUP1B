@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'conversor de unidades de almacenamiento'
+4
+1
+66
+'Dame la cantidad en megabytes de tu dispositivo de almacenmiento'
+5
+1
+2
+MB
+6
+3
+10
+resultado1
+10
+MB*8388608
+10
+resultado2
+10
+MB*1048576
+10
+resultado3
+7
+MB*1024
+6
+2
+10
+resultado4
+7
+MB/1024
+10
+resultado5
+15
+resultado4/1024
+4
+1
+39
+'El resultado en bits es: ', resultado1
+4
+1
+40
+'El resultado en bytes es: ', resultado2
+4
+1
+44
+'El resultado en megabytes es: ', resultado3
+4
+1
+43
+'El resultado en gigabyts es: ', resultado4
+4
+1
+44
+'El resultado en terabytes es: ', resultado5
+4
+1
+30
+'Gracias por usar el programa'
+1

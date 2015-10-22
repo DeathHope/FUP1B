@@ -1,0 +1,131 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'lavadora pro-3000 Rs Ultra'
+4
+1
+24
+'dame los kilos de ropa'
+5
+1
+1
+n
+7
+0
+1
+5
+n>=21
+7
+0
+1
+17
+(n>=16)AND(n<=20)
+7
+0
+1
+17
+(n>=11)AND(n<=15)
+7
+0
+1
+16
+(n>=0)AND(n<=10)
+13
+4
+1
+22
+'Nivel minimo de agua'
+4
+1
+37
+'El tiempo de lavado es de 5 minutos'
+13
+13
+4
+1
+22
+'Nivel normal de agua'
+4
+1
+38
+'El tiempo de lavado es de 15 minutos'
+13
+4
+1
+37
+'La ropa es delicada1 normal2 sucia3'
+5
+1
+1
+R
+7
+0
+1
+3
+R=1
+7
+0
+1
+3
+R=2
+7
+0
+1
+3
+R=3
+7
+0
+1
+4
+R>=4
+13
+4
+1
+16
+'No hay termino'
+13
+13
+4
+1
+22
+'La ropa es de obrero'
+13
+13
+4
+1
+19
+'La ropa es normal'
+13
+13
+4
+1
+21
+'La ropa es delicada'
+13
+13
+4
+1
+22
+'Nivel maximo de agua'
+4
+1
+38
+'El tiempo de lavado es de 20 minutos'
+13
+4
+1
+44
+'Gracias por usar lavadorapro-3000 Rs Ultra'
+13
+4
+1
+49
+'Error, que no sabes lavar. Retira kilos de ropa'
+13
+1
