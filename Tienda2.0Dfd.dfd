@@ -100,4 +100,22 @@ F+G+H+I+J
 1
 31
 'El total de su compra es:' , K
+4
+1
+28
+'Con cuanto dinero pagaste:'
+5
+1
+1
+L
+6
+1
+1
+N
+3
+L-k
+4
+1
+22
+'Su cambio es de:' , N
 1
